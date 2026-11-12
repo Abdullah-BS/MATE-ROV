@@ -1,6 +1,6 @@
 # MATE ROV — RedSea Rovers
 
-A 6-DOF underwater ROV built by the **RedSea Rovers** team for the MATE ROV Competition. This repository documents the **control and software system**: how the pilot's commands travel from the surface to the thrusters, how the vehicle stays stable, and how the camera feed is used for AI-based object detection.
+A 6-DOF underwater ROV built by the **RedSea Rovers** team for the MATE ROV Competition, where we placed **7th worldwide at MATE ROV 2026**. This repository documents the **control and software system**: how the pilot's commands travel from the surface to the thrusters, how the vehicle stays stable, and how the camera feed is used for AI-based object detection.
 
 > Built and documented by the Control & Software team, led by [Abdullah Binsalman](https://github.com/Abdullah-BS).
 
